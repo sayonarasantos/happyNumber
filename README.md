@@ -22,7 +22,7 @@ Ran 5 tests in 0.000s
 OK
 ```
 
-- **listHN.py**: código que lista e verifica (utilizando a classe HappyNumber) se os números de 1 a 10 são felizes ou tristes. Para executá-lo, digite o seguinte comando:
+- **listHN.py**: código que lista e verifica (utilizando a classe HappyNumber) se os números de 1 a 9 são felizes ou tristes. Para executá-lo, digite o seguinte comando:
 ```
 $ python listHN.py 
 ```
